@@ -1,0 +1,32 @@
+{
+  "name": "myapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.17",
+    "@heroicons/react": "^2.0.18",
+    "aos": "^2.3.4",
+    "crisp-sdk-web": "^1.0.21",
+    "next": "latest",
+    "ol": "^8.1.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scroll-parallax": "^3.4.2"
+  },
+  "devDependencies": {
+    "@types/aos": "^3.0.5",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest"
+  }
+}
